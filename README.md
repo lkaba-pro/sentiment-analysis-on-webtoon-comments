@@ -2,7 +2,7 @@
 This repository contains a sentiment analysis project for the popular webcomic Lore Olympus. The notebook focuses on analyzing the emotional tone of text data associated with the series, providing insights into the sentiment trends across episodes.
 
 Project Overview
-The project is divided into several key sections:
+<hr>The project is divided into several key sections:
 
 1) Data Loading and Preparation:
 
@@ -11,7 +11,7 @@ The project is divided into several key sections:
 
 2) Sentiment Analysis:
 
-* Applies a sentiment analysis model (e.g., VADER or similar) to assess positive, neutral, and negative sentiment scores for each text entry.
+* Applies a sentiment analysis model (VADER, BERT) to assess positive, neutral, and negative sentiment scores for each text entry.
 * Analyzes sentiment trends and extracts useful insights.
 
 3) Visualization:
@@ -23,4 +23,4 @@ Requirements: The analysis uses common Python libraries, including:
 
 * pandas and numpy for data handling.
 * matplotlib or seaborn for visualization.
-* VADER or another sentiment analysis package.
+* VADER or BERT sentiment analysis package.
