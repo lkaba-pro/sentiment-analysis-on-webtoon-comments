@@ -6,7 +6,7 @@ Unlike computer vision approaches that attempt to artificially generate art, thi
 
 ## 🎯 Objective
 
-To analyze the emotional tone of reader comments on *Lore Olympus* episodes and gain insights into audience reactions and engagement using natural language processing.
+To assess how each Lore Olympus episode is received by the audience by analyzing the emotional tone of reader comments, using NLP and Data Science techniques to gain insight into engagement patterns and reactions based on chapter content.
 
 ## 📁 Project Structure
 
