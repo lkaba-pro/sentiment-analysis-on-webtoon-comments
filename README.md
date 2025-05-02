@@ -1,7 +1,8 @@
 
 # 📚 Lore Olympus Comment Sentiment Analysis using Pre-trained BERT
 
-This project performs **sentiment analysis** on user comments from chapters of the *Lore Olympus* webtoon using a **pre-trained BERT model** from Hugging Face.
+This project conducts **Sentiment Analysis** on user comments from chapters of the *Lore Olympus* webtoon using a pre-trained BERT model from Hugging Face. It reflects a personal initiative to combine two of my main interests : webtoon creation (drawing) and machine learning by exploring natural language processing.
+Unlike computer vision approaches that attempt to artificially generate art, this project respects the authenticity of human-made illustration by focusing on how audiences react to it, rather than trying to replicate it.
 
 ## 🎯 Objective
 
