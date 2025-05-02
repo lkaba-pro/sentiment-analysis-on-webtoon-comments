@@ -11,7 +11,7 @@ To assess how each Lore Olympus episode is received by the audience by analyzing
 ## 📁 Project Structure
 
 - `Lore_Olympus_Sentiment_Analysis_using_Pre_trained_BERT_model.ipynb` – Main Jupyter Notebook for the sentiment analysis pipeline.
-- Input data: a CSV file containing user comments and associated chapter metadata.
+- Input data: comments retrieved from Webtoon platform with web scraping.
 - Model used: [`nlptown/bert-base-multilingual-uncased-sentiment`](https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment).
 
 ## ⚙️ Pipeline Overview
